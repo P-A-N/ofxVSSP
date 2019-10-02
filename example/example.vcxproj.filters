@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<ClCompile Include="src\ofApp.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\main.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\main.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\ofApp.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxGui\src\ofxBaseGui.cpp">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxGui\src\ofxButton.cpp">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxGui\src\ofxColorPicker.cpp">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxGui\src\ofxGuiGroup.cpp">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxGui\src\ofxInputField.cpp">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxGui\src\ofxLabel.cpp">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxGui\src\ofxPanel.cpp">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxGui\src\ofxSlider.cpp">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxGui\src\ofxSliderGroup.cpp">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxGui\src\ofxToggle.cpp">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxVSSP\src\urg3dlib\src\urg3d_connection.c">
+			<Filter>addons\ofxVSSP\src\urg3dlib\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxVSSP\src\urg3dlib\src\urg3d_ring_buffer.c">
+			<Filter>addons\ofxVSSP\src\urg3dlib\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxVSSP\src\urg3dlib\src\urg3d_sensor.c">
+			<Filter>addons\ofxVSSP\src\urg3dlib\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxVSSP\src\urg3dlib\src\urg3d_tcpclient.c">
+			<Filter>addons\ofxVSSP\src\urg3dlib\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxVSSP\src\urg3dlib\src\urg3d_ticks.c">
+			<Filter>addons\ofxVSSP\src\urg3dlib\src</Filter>
+		</ClCompile>
+	</ItemGroup>
+	<ItemGroup>
+		<Filter Include="src">
+			<UniqueIdentifier>{d8376475-7454-4a24-b08a-aac121d3ad6f}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons">
+			<UniqueIdentifier>{71834F65-F3A9-211E-73B8-DC85}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxGui">
+			<UniqueIdentifier>{4F2A59AF-5F4E-704B-D067-EC13}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxGui\src">
+			<UniqueIdentifier>{645E9533-4DCD-6179-1CDF-CB65}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxVSSP">
+			<UniqueIdentifier>{1B248732-CED3-A23F-B1CF-87CF}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxVSSP\src">
+			<UniqueIdentifier>{D7A73ED7-3598-0699-1390-ED47}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxVSSP\src\urg3dlib">
+			<UniqueIdentifier>{C003D0EF-A6C9-C69E-9EDA-41F6}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxVSSP\src\urg3dlib\include">
+			<UniqueIdentifier>{BB76F60A-0703-1614-4F84-2CF9}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxVSSP\src\urg3dlib\src">
+			<UniqueIdentifier>{2A2B1C92-78F7-BDFF-E762-91A9}</UniqueIdentifier>
+		</Filter>
+	</ItemGroup>
+	<ItemGroup>
+		<ClInclude Include="src\ofApp.h">
+			<Filter>src</Filter>
+		</ClInclude>
+		<ClInclude Include="src\ofApp.h">
+			<Filter>src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxGui\src\ofxBaseGui.h">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxGui\src\ofxButton.h">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxGui\src\ofxColorPicker.h">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxGui\src\ofxGui.h">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxGui\src\ofxGuiGroup.h">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxGui\src\ofxInputField.h">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxGui\src\ofxLabel.h">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxGui\src\ofxPanel.h">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxGui\src\ofxSlider.h">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxGui\src\ofxSliderGroup.h">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxGui\src\ofxToggle.h">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxVSSP\src\ofxVSSP.h">
+			<Filter>addons\ofxVSSP\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxVSSP\src\urg3dlib\include\urg3d_connection.h">
+			<Filter>addons\ofxVSSP\src\urg3dlib\include</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxVSSP\src\urg3dlib\include\urg3d_detect_os.h">
+			<Filter>addons\ofxVSSP\src\urg3dlib\include</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxVSSP\src\urg3dlib\include\urg3d_errno.h">
+			<Filter>addons\ofxVSSP\src\urg3dlib\include</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxVSSP\src\urg3dlib\include\urg3d_ring_buffer.h">
+			<Filter>addons\ofxVSSP\src\urg3dlib\include</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxVSSP\src\urg3dlib\include\urg3d_sensor.h">
+			<Filter>addons\ofxVSSP\src\urg3dlib\include</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxVSSP\src\urg3dlib\include\urg3d_tcpclient.h">
+			<Filter>addons\ofxVSSP\src\urg3dlib\include</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxVSSP\src\urg3dlib\include\urg3d_ticks.h">
+			<Filter>addons\ofxVSSP\src\urg3dlib\include</Filter>
+		</ClInclude>
+	</ItemGroup>
+	<ItemGroup>
+		<ResourceCompile Include="icon.rc" />
+	</ItemGroup>
+</Project>
